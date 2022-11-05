@@ -1,0 +1,2 @@
+ls /usr/local/include/lib | grep SDL  pour voir les librairies SDL installer 
+ls /usr/local/include | grep SDL 
